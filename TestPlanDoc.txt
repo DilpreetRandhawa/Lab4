@@ -1,0 +1,51 @@
+1. Components to be Tested 
+
+Front-End (React + Bootstrap) 
+
+UI responsiveness across web and mobile devices 
+
+Navigation between pages (Login, Signup, Product Display, Flyers, Favourites) 
+
+Form validation (Login/Signup) 
+
+Search and filter functionality 
+
+Back-End (Spring Boot APIs) 
+
+API endpoints for login, signup, search, and product comparison 
+
+Data exchange between API and front-end (JSON validation) 
+
+Error handling and response codes 
+
+Database (MySQL) 
+
+Data integrity for product details, store prices, and user info 
+
+CRUD operations (insert, update, delete, fetch) 
+
+Authentication data storage and retrieval 
+
+Authentication 
+
+User signup and login with valid/invalid credentials 
+
+Session handling and logout functionality 
+
+Password validation and error messages 
+
+Features 
+
+Price Comparison: Verify correct comparison between stores 
+
+Flyers & Promotions: Ensure flyers load properly (real or mock data) 
+
+Favourites: Test add/remove functionality and persistence 
+
+Integrated Application (End-to-End) 
+
+Full user journey: Signup → Login → Search → Compare → Save Favourites → Logout 
+
+Performance testing (response time under load) 
+
+Cross-browser testing (Chrome, Edge, Firefox, Safari) 
