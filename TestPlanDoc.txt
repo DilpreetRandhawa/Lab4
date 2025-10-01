@@ -49,3 +49,71 @@ Full user journey: Signup → Login → Search → Compare → Save Favourites �
 Performance testing (response time under load) 
 
 Cross-browser testing (Chrome, Edge, Firefox, Safari) 
+
+2.  Roles and Responsibilities 
+
+Dilpreet Singh (Tester, UI/UX Designer, Project Coordinator) 
+
+Create and execute test cases 
+
+Report bugs in GitHub issues 
+
+Validate UI/UX consistency across devices 
+
+Navdeep Singh (Front-End Developer) 
+
+Support testing of UI components 
+
+Fix UI-related bugs 
+
+Assist with responsiveness issues 
+
+Parmjeet Singh (Back-End Developer) 
+
+Support testing of APIs and database logic 
+
+Fix backend bugs 
+
+Ensure database integrity during tests 
+
+ 
+
+3. Test Cases and Documentation 
+
+Example Test Categories: 
+
+Functional Tests 
+
+Login with valid/invalid credentials 
+
+Search returns correct product results 
+
+Price comparison shows lowest/highest price correctly 
+
+Flyers load with accurate store offers 
+
+UI/UX Tests 
+
+Responsive design check (desktop, tablet, mobile) 
+
+Navigation flows smoothly without errors 
+
+Integration Tests 
+
+Front-end search connects to back-end API correctly 
+
+Data retrieved from DB matches front-end display 
+
+Performance Tests 
+
+Load test with 50–100 simulated users 
+
+API response time within acceptable limit (e.g., <2 seconds) 
+
+Security Tests 
+
+Prevent SQL Injection attempts 
+
+Password encryption verified 
+
+Session timeout handling 
