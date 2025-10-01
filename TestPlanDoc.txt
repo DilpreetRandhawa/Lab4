@@ -48,4 +48,27 @@ Full user journey: Signup → Login → Search → Compare → Save Favourites �
 
 Performance testing (response time under load) 
 
-Cross-browser testing (Chrome, Edge, Firefox, Safari) 
+Cross-browser testing (Chrome, Edge, Firefox, Safari)
+
+4. Timeframe for Testing 
+
+Week 7–8: Unit Testing (Front-End + Back-End separately) 
+
+Week 8–9: Integration Testing (APIs + DB + Front-End) 
+
+Week 9: System Testing (Full workflow, stress testing, bug fixes) 
+
+Week 10: User Acceptance Testing (UAT) & Final Validation 
+
+ 
+
+5. Handling Failed or Inconclusive Tests 
+
+Record issue in GitHub Issues with severity (Critical, Major, Minor) 
+
+Assign responsible team member (Front-End or Back-End) 
+
+Retest after fix is applied 
+
+If inconclusive, escalate for team discussion in weekly meeting
+
